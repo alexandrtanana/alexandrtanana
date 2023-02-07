@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana)
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact)
