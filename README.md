@@ -3,6 +3,7 @@
 <h2 align="center">Я начинающий веб разработчик</h2>
 <h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-alexandrtanana)
 
 Here are some ideas to get you started:
 
@@ -15,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img>
+<!-- <img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=Gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact&theme=gradient)
