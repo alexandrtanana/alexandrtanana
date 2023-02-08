@@ -1,7 +1,8 @@
-<h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
+<h1 align="center" color="bdff00">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я начинающий веб разработчик из Беларуси</h2>  :belarus:
-<h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
+<h2 align="center" color="bdff00">Я начинающий веб разработчик из Беларуси :belarus:</h2>
+<h3 align="center" color="bdff00">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
+<blockquote align="center">Если действительно хотите сделать карьеру, забудьте слово «быстрее». Быстро можно стать только «офисным планктоном».</blockquote>
 
 
 
