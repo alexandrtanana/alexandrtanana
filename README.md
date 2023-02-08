@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
+
 
 
 <!-- <img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img> -->
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
