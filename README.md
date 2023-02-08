@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... <div style="padding-top:80.000%;position:relative;"><iframe src="https://gifer.com/embed/QBnX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+
+
 
 <!-- <img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00&card_width=100%)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrtanana&title_color=bdff00)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=github-compact)
 
