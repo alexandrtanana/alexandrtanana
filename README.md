@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <!-- <img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00&card_width=100%)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrtanana&title_color=bdff00)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=react-dark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=github-compact)
 
