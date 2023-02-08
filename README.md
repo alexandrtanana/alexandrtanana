@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/powershell_button_icon_151870.png?token=GHSAT0AAAAAAB57WTM7GYN3JDMSGQ4E5TFIY7DIRRQ"></img>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=Responsive)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact&theme=Responsive)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=Gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact&theme=Gradient)
