@@ -1,5 +1,5 @@
-### Hi there 👋
-<!--
+#Привет! Меня зовут Александр, я начинающий веб разработчик.
+
 **alexandrtanana/alexandrtanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=merko)
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact)
