@@ -3,7 +3,7 @@
 <h2 align="center">Я начинающий веб разработчик из Беларуси </h2>
 <h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alexandrtanana&theme=onedark)
+
 
 Here are some ideas to get you started:
 
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtananat&theme=dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=dracula)
