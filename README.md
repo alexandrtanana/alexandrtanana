@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я начинающий веб разработчик из Беларуси </h2>
+<h2 align="center">Я начинающий веб разработчик из Беларуси</h2>  :belarus:
 <h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
 
 
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...  <img src="https://i.gifer.com/QBnX.gif" with="50" height="50"></img>
+- ⚡ Fun fact: ... 
+
 
 
 
