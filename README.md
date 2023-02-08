@@ -6,9 +6,9 @@
 <q align="center">Если действительно хотите сделать карьеру, забудьте слово «быстрее». Быстро можно стать только «офисным планктоном».</q>
 <hr>
 <p>Связаться сомной:</p>
-<a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/telegram_logo_icon_144811.png?token=GHSAT0AAAAAAB57WTM7NZMXMVRQWKR6WQTAY7ECC5Q">TELEGRAM</img></a>
-<a href="https://vk.com/alexandrtanana"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/rus-vk-02_icon-icons.com_50758.png?token=GHSAT0AAAAAAB57WTM7LJRUIZVW7QPN4KE4Y7ECEMQ">VK</img></a>
-<a href="http://www.linkedin.com/in/alexandrtanana"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/linkedin_black_logo_icon_147114.png?token=GHSAT0AAAAAAB57WTM772EUPCX6UBR23OO4Y7ECFFA">LinkedIn</img></a>
+<a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/telegram_logo_icon_144811.png?token=GHSAT0AAAAAAB57WTM6JRN56DSWXFHFJDDIY7ECJPQ" width="20" height="20" alt="телеграм"></img></a>
+<a href="https://vk.com/alexandrtanana"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/rus-vk-02_icon-icons.com_50758.png?token=GHSAT0AAAAAAB57WTM7LJRUIZVW7QPN4KE4Y7ECEMQ" width="20" height="20" alt="вконтакте"></img></a>
+<a href="http://www.linkedin.com/in/alexandrtanana"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/linkedin_black_logo_icon_147114.png?token=GHSAT0AAAAAAB57WTM772EUPCX6UBR23OO4Y7ECFFA" width="20" height="20" alt="линкед ин"></img></a>
  
 <br/>
 
