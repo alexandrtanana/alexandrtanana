@@ -1,6 +1,7 @@
-# Привет! Меня зовут Александр, я начинающий веб разработчик.
-
-**alexandrtanana/alexandrtanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет! Меня зовут Александр. <a href="https://vk.com/alexandrtanana" target="_blank">Александр</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Я начинающий веб разработчик</h2>
+<h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".</h3>
 
 Here are some ideas to get you started:
 
