@@ -1,8 +1,4 @@
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=alexandrtanana)
-</div>
-<a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="400"></img></a>
+<a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="410"></img></a>
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Я начинающий веб разработчик из Беларуси  🇧🇾 </h2>
@@ -13,7 +9,10 @@
 <hr>
  
 <br/>
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=alexandrtanana)
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
