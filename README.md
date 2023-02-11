@@ -11,12 +11,12 @@
  
 <br/>
 
-<div class="div">
 <style>
   .div {
     display: flex;
     }
   </style>
+<div class="div">
 <div>
 Here are some ideas to get you started:
 
