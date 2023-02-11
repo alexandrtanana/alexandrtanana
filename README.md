@@ -1,9 +1,9 @@
+<img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="500"></img>
+
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Я начинающий веб разработчик из Беларуси  🇧🇾 </h2>
-<h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий".
-
-![](https://komarev.com/ghpvc/?username=alexandrtanana&color=green) </h3>
+<h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий" <h3>
 <hr>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=18&color=BDFF00&multiline=true&width=700&lines=%D0%95%D1%81%D0%BB%D0%B8+%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D1%85%D0%BE%D1%82%D0%B8%D1%82%D0%B5+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D1%83%2C+%D0%B7%D0%B0%D0%B1%D1%83%D0%B4%D1%8C%D1%82%D0%B5+%D1%81%D0%BB%D0%BE%D0%B2%D0%BE+%C2%AB%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%B5%C2%BB.+;%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE+%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE+%D1%81%D1%82%D0%B0%D1%82%D1%8C+%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%C2%AB%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D0%BC+%D0%BF%D0%BB%D0%B0%D0%BD%D0%BA%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%C2%BB." alt="Typing SVG" /></a>
