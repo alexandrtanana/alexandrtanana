@@ -12,6 +12,7 @@
 <br/>
 
 <div>
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,10 +23,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
+<div>
+
+<div align="right">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes})
+
+<div>
 </div>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes})
+
 <hr>
 <p color=bdff00> Мой стек и инструменты:</p>
 
