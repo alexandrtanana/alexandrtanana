@@ -55,7 +55,10 @@ Here are some ideas to get you started:
 </details>
 
 <hr>
-<p align="center">Связаться сомной:</p>
+
+<div align="center">
+<p>Связаться сомной:</p>
 <a href="https://t.me/Default94" target="_blank"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/telegram_tile_logo_icon_169640.png?token=GHSAT0AAAAAAB57WTM6FNCH6M54D3O7ZB2CY7EC35Q" width="40" height="40" alt="телеграм"></img></a>
 <a href="https://vk.com/alexandrtanana" target="_blank"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/iconfinder-social-media-applications-32vk-4102593_113806.png?token=GHSAT0AAAAAAB57WTM6GD3H666Q4U35HC54Y7EC3FQ" width="40" height="40" alt="вконтакте"></img></a>
 <a href="http://www.linkedin.com/in/alexandrtanana" target="_blank"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/iconfinder-social-media-applications-14linkedin-4102586_113786.png?token=GHSAT0AAAAAAB57WTM64QPOEVNGIWU6V6HKY7ECZ6A" width="40" height="40" alt="линкед ин"></img></a>
+</div>
