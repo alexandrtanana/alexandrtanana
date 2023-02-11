@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=alexandrtanana)
 <a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="400"></img></a>
 
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
@@ -11,12 +12,6 @@
  
 <br/>
 
-
-
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,13 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300)
-
-
-
-
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300) -->
 
 <hr>
 <p align="center" color=bdff00> Мой стек и инструменты:</p>
@@ -57,10 +46,9 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
-<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=github-compact) -->
+
 <hr>
 <p>Связаться сомной:</p>
 <a href="https://t.me/Default94" target="_blank"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/telegram_tile_logo_icon_169640.png?token=GHSAT0AAAAAAB57WTM6FNCH6M54D3O7ZB2CY7EC35Q" width="40" height="40" alt="телеграм"></img></a>
