@@ -11,13 +11,13 @@
  
 <br/>
 
-<style>
-  .div {
-    display: flex;
-    }
-  </style>
-<div class="div">
-<div>
+
+
+
+| Name| VALUE|
+| ----------- | ---------- |
+| Имя| 100 |
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 <div>
 
-<div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes})
 
-<div>
-</div>
+
 
 
 
