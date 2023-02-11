@@ -11,7 +11,12 @@
  
 <br/>
 
-<div>
+<div class="div">
+<style>
+  .div {
+    display: flex;
+    }
+  </style>
 <div>
 Here are some ideas to get you started:
 
@@ -25,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 <div>
 
-<div align="right">
+<div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes})
 
