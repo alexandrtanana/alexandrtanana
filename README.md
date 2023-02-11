@@ -1,4 +1,5 @@
-<div aligne="center">
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=alexandrtanana)
 </div>
 <a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="400"></img></a>
