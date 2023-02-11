@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandrtananaa&repo=github-readme-stats)
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexandrtanana&theme=github-compact) -->
 <hr>
 <p>Связаться сомной:</p>
