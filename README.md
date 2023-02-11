@@ -1,4 +1,7 @@
+<div aligne="center">
+
 ![](https://komarev.com/ghpvc/?username=alexandrtanana)
+</div>
 <a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="900" height="400"></img></a>
 
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
@@ -23,7 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300) -->
 
 <hr>
 <p align="center" color=bdff00> Мой стек и инструменты:</p>
@@ -48,6 +50,10 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
+<details>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300)
+<details>
 
 <hr>
 <p>Связаться сомной:</p>
