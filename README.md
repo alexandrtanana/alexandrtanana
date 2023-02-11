@@ -14,11 +14,7 @@
 
 
 
-| Name| VALUE|
-| ----------- | ---------- |
-| Имя| 100 |
-
-Here are some ideas to get you started:
+| Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,11 +23,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-<div>
+- ⚡ Fun fact: ... | ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes}) |
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&unique={true|1|on|yes})
+
 
 
 
