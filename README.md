@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="700" height="400"></img>
+<img src="https://raw.githubusercontent.com/alexandrtanana/icons-for-github/master/banner.jpg" width="800" height="400"></img>
 
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
