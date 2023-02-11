@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia)
 <hr>
 <p color=bdff00> Мой стек и инструменты:</p>
 
