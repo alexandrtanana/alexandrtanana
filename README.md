@@ -13,17 +13,11 @@
 
 ![](https://komarev.com/ghpvc/?username=alexandrtanana)
 </div>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-
+- 🔭 Я сейчас работаю над своим сайтом-портфолио.
+- 🌱 Учусь в университете по специальности "Инженер-программист".
+- 👯 Ищу сотрудничество по разработке сайтов.
+- 🤔 В планах изучить Wordpress
 
 <hr>
 <p align="center" color=bdff00> Мой стек и инструменты:</p>
@@ -48,12 +42,12 @@ Here are some ideas to get you started:
 <details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
 </details>
 
 <hr>
-
 <div align="center">
 <p>Связаться сомной:</p>
 <a href="https://t.me/Default94" target="_blank"><img src="https://raw.githubusercontent.com/alexandrtanana/alexandrtanana/master/image-for-github/telegram_tile_logo_icon_169640.png" width="40" height="40" alt="телеграм"></img></a>
