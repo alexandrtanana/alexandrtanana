@@ -1,7 +1,7 @@
 <a href="https://t.me/Default94"><img src="https://raw.githubusercontent.com/alexandrtanana/alexandrtanana/master/image-for-github/banner.jpg"> </img> </a>
 <h1 align="center">Привет! Меня зовут <a href="https://vk.com/alexandrtanana" target="_blank">Александр.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Я начинающий веб разработчик из Беларуси  🇧🇾 </h2>
+<h2 align="center">Я веб разработчик из Беларуси  🇧🇾 </h2>
 <h3 align="center">Учусь в университете по специальности "Инженер-программист", квалификация "программное обеспечение информационных технологий" <h3>
 <hr>
 
@@ -45,12 +45,10 @@ Here are some ideas to get you started:
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
-
-<details>
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300)
 </details>
 
