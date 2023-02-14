@@ -41,9 +41,8 @@
 
 <details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jmhnmgixq76jppbx4ykcuggkia&width=300)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrtanana&theme=dark&title_color=bdff00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtanana&langs_count=8&theme=dark&title_color=bdff00)
 </details>
 
